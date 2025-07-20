@@ -13,7 +13,7 @@ A simple and responsive weather application built with HTML, CSS, and JavaScript
 
 ## 🚀 Live Demo
 
-[View Live] : 
+[View Live] : https://sai-vibhandik.github.io/Weather-app/
 
 ## 🛠 Setup
 
