@@ -5,7 +5,7 @@ const notFoundSection = document.querySelector('.not-found')
 const searchCitySection = document.querySelector('.search-city')
 const weatherInfoSection = document.querySelector('.weather-info')
 
-const apiKey = 'ba3bb121d8116c7c76d6dab5584e1cce';
+const 
 
 const countryTxt = document.querySelector('.country-txt')
 const tempTxt = document.querySelector('.temp-txt')
